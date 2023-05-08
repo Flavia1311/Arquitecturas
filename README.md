@@ -1,6 +1,6 @@
 # Arquitecturas
 
 ## Temas
--DAO
--JDBC
--JPA
+- DAO
+- JDBC
+- JPA
